@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gayathri\\source\\repos\\DotnetWebApi\\DotnetWebApi.csproj": {}
+    "C:\\Users\\Gayathri\\Documents\\Git Demo\\dotnet-api\\DotnetWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gayathri\\source\\repos\\DotnetWebApi\\DotnetWebApi.csproj": {
+    "C:\\Users\\Gayathri\\Documents\\Git Demo\\dotnet-api\\DotnetWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gayathri\\source\\repos\\DotnetWebApi\\DotnetWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Gayathri\\Documents\\Git Demo\\dotnet-api\\DotnetWebApi.csproj",
         "projectName": "DotnetWebApi",
-        "projectPath": "C:\\Users\\Gayathri\\source\\repos\\DotnetWebApi\\DotnetWebApi.csproj",
+        "projectPath": "C:\\Users\\Gayathri\\Documents\\Git Demo\\dotnet-api\\DotnetWebApi.csproj",
         "packagesPath": "C:\\Users\\Gayathri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gayathri\\source\\repos\\DotnetWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Gayathri\\Documents\\Git Demo\\dotnet-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gayathri\\AppData\\Roaming\\NuGet\\NuGet.Config",
